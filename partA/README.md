@@ -3,6 +3,22 @@
 
 
 ### Set Up
+To run the code as it is load the data in a folder inaturalist_12k
+DA6401_ASSIGNMENT2
+|_inaturalist_12k
+|   |_train
+|   |   |_Amphibia
+|   |   |_Animalia
+|   |   |_Arachnida
+|   |   :
+|   |   :
+|   |_val
+|
+|_partA
+|_partB
+|_README.md
+|_requirements.txt
+
 To set up the environment, make sure you have the following Python packages installed:
 
 - `torch` - Core deep learning library
