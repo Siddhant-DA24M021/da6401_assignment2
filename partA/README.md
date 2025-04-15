@@ -45,7 +45,7 @@ pip install torch torchvision matplotlib numpy tqdm ipykernel wandb
 4. training_logic.py :- Contains the training logic.
 5. sweep_utils.py :- Contains some helper functions for sweeping.
 6. hyperparameter_sweep.py :- WandB sweeping code for hyperparameter tuning.
-7. best_model.py :- Training and Evaluation of best model parameters.
+7. train_model.py :- Training and Evaluation of best model parameters.
 
 ### Metrics of the best model :-
 ### Training Loss of best model :- 1.608
