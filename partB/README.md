@@ -45,6 +45,13 @@ pip install torch torchvision matplotlib numpy tqdm ipykernel wandb
 4. finetune_model.py :- Training and Evaluating the EfficientNetV2 model according to gradual unfreezing of layers strategy.
 
 
+## Training and Evaluating: -
+For training and evaluating the model download the dataset and keep it in the folder structure as indicated above.
+Then in cli run:
+```bash
+python .\partB\finetune_model.py
+``` 
+
 ### Metrics of the best model :-
 ### Training Loss of best model :- 0.122
 ### Training Accuracy of best model :- 96.08%
