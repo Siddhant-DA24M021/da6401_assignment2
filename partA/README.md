@@ -47,6 +47,13 @@ pip install torch torchvision matplotlib numpy tqdm ipykernel wandb
 6. hyperparameter_sweep.py :- WandB sweeping code for hyperparameter tuning.
 7. train_model.py :- Training and Evaluation of best model parameters.
 
+## Training and Evaluating: -
+For training and evaluating the model download the dataset and keep it in the folder structure as indicated above.
+Then in cli run:
+```bash
+python .\partA\train_model.py
+``` 
+
 ### Metrics of the best model :-
 ### Training Loss of best model :- 1.608
 ### Training Accuracy of best model :- 44.47%
